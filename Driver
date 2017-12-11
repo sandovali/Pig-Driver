@@ -1,0 +1,11 @@
+public class PigsFinal
+{
+  public static void main(String[] args)
+  {
+    PigsLab pigs = new PigsLab();
+   
+    pigs.Play();
+    
+  }
+  
+}
